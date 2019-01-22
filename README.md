@@ -1,3 +1,3 @@
 # ToDo-imperative-js
 
-Simple ToDo App in imperative paradigm.
+Simple ToDo App (JS) in imperative paradigm.
